@@ -9,7 +9,7 @@ public class Input {
        String name;
        System.out.print("Enter the Name :");
        name = input.nextLine();
-       System.out.print("welcome madarchod = "+name);
+       System.out.print("welcome = "+name);
     }
     
 }
