@@ -6,3 +6,5 @@ Section- U
 
 All of my java codes which I practiced will be uploaded here.
 This folder will be updated regularly.
+All the codes from the slides are also uploaded here.
+upload date- 06-14-2023
